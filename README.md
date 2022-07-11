@@ -1,6 +1,6 @@
 # Portfolio
 
-Esse é meu Portfólio pessoal em desenvolvimento para aprensentações pessoais e de projetos desenvolvidos e em desenvolvimento. 
+Esse é meu Portfólio pessoal em desenvolvimento para aprensentações pessoais, projetos desenvolvidos e em desenvolvimento. 
 
 Neste Portfólio foi utilizado o Plugin Particles.js desenvolvido por [Marc Brüderlin](https://github.com/marcbruederlin/particles.js).
 
