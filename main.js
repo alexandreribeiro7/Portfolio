@@ -41,18 +41,3 @@ function showText(el, blog_post_title, interval) {
 }
 
 showText(ek, blog_post_title, interval);
-
-//Particles.js
-
-var particles = Particles.init({
-	selector: '.background',
-  color: ['#ffffff', '#ffffff'],
-  connectParticles: true,
-  responsive: [{
-  	breakpoint: 800,
-    options: {
-    	maxParticles: 50,
-      connectParticles: true
-    }
-  }]
-});
